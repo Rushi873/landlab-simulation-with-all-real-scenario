@@ -3,6 +3,8 @@
 Welcome to the most **dynamic, real-world Landlab simulation** you’ll find! This project doesn’t just model landscapes—it brings them to life, blending natural forces and human activity over hundreds of thousands of years. If you want to see how mountains, rivers, cities, and farms all compete and cooperate on the land, you’re in the right place.  
 *Ready to watch landscapes evolve? Scroll on!* 🌍
 
+![Topography Simulation](topography.gif)
+
 ---
 
 ## 🌟 Why You'll Love This Project
